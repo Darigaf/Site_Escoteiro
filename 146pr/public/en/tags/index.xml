@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GE 146 PR - Herdeiros de Gaia</title>
-    <link>https://herdeirosdegaia.org.br/tags/</link>
+    <link>https://herdeirosdegaia.org.br/en/tags/</link>
     <description>Recent content in Tags on GE 146 PR - Herdeiros de Gaia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language><atom:link href="https://herdeirosdegaia.org.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt</language><atom:link href="https://herdeirosdegaia.org.br/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

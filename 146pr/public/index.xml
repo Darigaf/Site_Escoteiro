@@ -5,15 +5,79 @@
     <link>https://herdeirosdegaia.org.br/</link>
     <description>Recent content in Inicio on GE 146 PR - Herdeiros de Gaia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>pt</language>
     <lastBuildDate>Thu, 24 Aug 2023 13:23:02 -0300</lastBuildDate><atom:link href="https://herdeirosdegaia.org.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>participe</title>
+      <title>Ramo Pioneiro</title>
+      <link>https://herdeirosdegaia.org.br/ramos/pioneiro/</link>
+      <pubDate>Thu, 14 Sep 2023 11:09:45 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/ramos/pioneiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramo Senior</title>
+      <link>https://herdeirosdegaia.org.br/ramos/senior/</link>
+      <pubDate>Thu, 14 Sep 2023 11:09:40 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/ramos/senior/</guid>
+      <description>dakasoda</description>
+    </item>
+    
+    <item>
+      <title>Ramo Escoteiro</title>
+      <link>https://herdeirosdegaia.org.br/ramos/escoteiro/</link>
+      <pubDate>Thu, 14 Sep 2023 11:09:36 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/ramos/escoteiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramo Lobinho</title>
+      <link>https://herdeirosdegaia.org.br/ramos/lobinho/</link>
+      <pubDate>Thu, 14 Sep 2023 11:09:30 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/ramos/lobinho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teste</title>
+      <link>https://herdeirosdegaia.org.br/artigos/2023/teste/</link>
+      <pubDate>Thu, 24 Aug 2023 15:27:04 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/artigos/2023/teste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://herdeirosdegaia.org.br/contato/</link>
+      <pubDate>Thu, 24 Aug 2023 13:49:46 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/contato/</guid>
+      <description>Você pode entrar em contato conosco pelo whatsapp: (41) 99851-6246
+Ou ainda pelo email:</description>
+    </item>
+    
+    <item>
+      <title>Nossa História</title>
+      <link>https://herdeirosdegaia.org.br/historia/</link>
+      <pubDate>Thu, 24 Aug 2023 13:49:46 -0300</pubDate>
+      
+      <guid>https://herdeirosdegaia.org.br/historia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participe</title>
       <link>https://herdeirosdegaia.org.br/participe/</link>
       <pubDate>Thu, 24 Aug 2023 13:49:46 -0300</pubDate>
       
       <guid>https://herdeirosdegaia.org.br/participe/</guid>
-      <description></description>
+      <description>Se você tem interesse em experimentar como é o escotismo, mande uma mensagem para o whatsapp do numero.</description>
     </item>
     
   </channel>

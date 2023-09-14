@@ -1,5 +1,5 @@
 ---
-title: "Participe"
+title: "Contato"
 date: 2023-08-24T13:49:46-03:00
 draft: false
 featured_image: ''
@@ -10,4 +10,6 @@ menu: main
 
 ---
 
-Se você tem interesse em experimentar como é o escotismo, mande uma mensagem para o whatsapp do numero. 
+Você pode entrar em contato conosco pelo whatsapp: (41) 99851-6246
+
+Ou ainda pelo email: 

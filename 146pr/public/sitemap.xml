@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://herdeirosdegaia.org.br/participe/</loc>
-    <lastmod>2023-08-24T13:49:46-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://herdeirosdegaia.org.br/</loc>
-    <lastmod>2023-08-24T13:23:02-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://herdeirosdegaia.org.br/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://herdeirosdegaia.org.br/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://herdeirosdegaia.org.br/pt/sitemap.xml</loc>
+    
+      <lastmod>2023-09-14T11:09:45-03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://herdeirosdegaia.org.br/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
