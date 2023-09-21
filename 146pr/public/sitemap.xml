@@ -1,16 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://herdeirosdegaia.org.br/pt/sitemap.xml</loc>
-    
-      <lastmod>2023-09-14T11:09:45-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://herdeirosdegaia.org.br/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/pioneiro/</loc>
+    <lastmod>2023-09-14T11:09:45-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/senior/</loc>
+    <lastmod>2023-09-14T11:09:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/escoteiro/</loc>
+    <lastmod>2023-09-14T11:09:36-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/lobinho/</loc>
+    <lastmod>2023-09-14T11:09:30-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/artigos/2023/teste/</loc>
+    <lastmod>2023-08-24T15:27:04-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/artigos/</loc>
+    <lastmod>2023-08-24T15:26:26-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/</loc>
+    <lastmod>2023-08-24T15:26:26-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/contato/</loc>
+    <lastmod>2023-08-24T13:49:46-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/historia/</loc>
+    <lastmod>2023-08-24T13:49:46-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/participe/</loc>
+    <lastmod>2023-08-24T13:49:46-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/</loc>
+    <lastmod>2023-08-24T13:23:02-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

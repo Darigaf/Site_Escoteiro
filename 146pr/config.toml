@@ -1,4 +1,5 @@
-baseURL = 'https://herdeirosdegaia.org.br/'
+#baseURL = 'https://herdeirosdegaia.org.br/'
+baseURL = 'https://escoteiro.mateusbernardo.xyz'
 languageCode = 'pt'
 title = 'GE 146 PR - Herdeiros de Gaia'
 theme = 'ananke/'
@@ -15,10 +16,10 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.en]
-    title = "GE 146 PR - Herdeiros de Gaia"
-    weight = 2
-    contentDir = "content/en"
+#  [languages.en]
+#    title = "GE 146 PR - Herdeiros de Gaia"
+#    weight = 2
+#    contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]
