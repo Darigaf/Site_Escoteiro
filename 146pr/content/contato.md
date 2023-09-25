@@ -10,6 +10,6 @@ menu: main
 
 ---
 
-Você pode entrar em contato conosco pelo whatsapp: (41) 99851-6246
+Você pode entrar em contato conosco pelo whatsapp: (41) 99879-1466
 
 Ou ainda pelo email: 

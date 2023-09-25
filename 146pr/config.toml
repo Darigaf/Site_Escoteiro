@@ -1,18 +1,19 @@
 #baseURL = 'https://herdeirosdegaia.org.br/'
 baseURL = 'https://escoteiro.mateusbernardo.xyz'
 languageCode = 'pt'
-title = 'GE 146 PR - Herdeiros de Gaia'
+#title = 'Grupo Escoteiro Herdeiros de Gaia - Escoteiros do Brasil - Paraná'
+title = 'Grupo Escoteiro 146 PR'
 theme = 'ananke/'
 
 DefaultContentLanguage = "pt"
 SectionPagesMenu = "main"
-Paginate = 4 # this is set low for demonstrating with dummy content. Set     to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set     to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
  
 [languages]
   [languages.pt]
-    title = "GE 146 PR - Herdeiros de Gaia"
+    title = "Grupo Escoteiro Herdeiros de Gaia - Escoteiros do Brasil - Paraná"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -39,6 +40,7 @@ enableRobotsTXT = true
    recent_posts_number = 6
    show_reading_time = "true"
    date_format = "2. January 2006"
+   mainSections = ['noticias']
 
   
 [[params.ananke_socials]]
