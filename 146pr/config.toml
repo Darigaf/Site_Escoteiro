@@ -13,7 +13,8 @@ enableRobotsTXT = true
  
 [languages]
   [languages.pt]
-    title = "Grupo Escoteiro Herdeiros de Gaia - Escoteiros do Brasil - Paraná"
+    title = 'Grupo Escoteiro 146 PR'
+    #title = "Grupo Escoteiro Herdeiros de Gaia - Escoteiros do Brasil - Paraná"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages

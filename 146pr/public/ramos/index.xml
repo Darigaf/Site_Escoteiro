@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ramos on GE 146 PR - Herdeiros de Gaia</title>
+    <title>Ramos on Grupo Escoteiro 146 PR</title>
     <link>https://escoteiro.mateusbernardo.xyz/ramos/</link>
-    <description>Recent content in Ramos on GE 146 PR - Herdeiros de Gaia</description>
+    <description>Recent content in Ramos on Grupo Escoteiro 146 PR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 24 Aug 2023 15:26:26 -0300</lastBuildDate><atom:link href="https://escoteiro.mateusbernardo.xyz/ramos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 13:23:02 -0300</lastBuildDate><atom:link href="https://escoteiro.mateusbernardo.xyz/ramos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ramo Pioneiro</title>
       <link>https://escoteiro.mateusbernardo.xyz/ramos/pioneiro/</link>
       <pubDate>Thu, 14 Sep 2023 11:09:45 -0300</pubDate>
       
       <guid>https://escoteiro.mateusbernardo.xyz/ramos/pioneiro/</guid>
-      <description>teste</description>
+      <description>A partir dos 18 anos, e até os 21 incompletos, integramos o Ramo Pioneiro. Nossa equipe forma o clã, e é onde nos apoiamos e descobrimos interesses em comum. Levamos a sério nosso lema “Servir”, já que vivemos uma aventura que não é mais simbólica ou imaginária, pois experimentamos o papel real do adulto por meio do serviço e das atividades de desenvolvimento comunitário.
+O cotidiano no clã nos dá bastante liberdade, mas já estamos cientes da responsabilidade que isso traz – somos nós que organizamos nossas próprias atividades.</description>
+    </item>
+    
+    <item>
+      <title>Adulto Voluntario</title>
+      <link>https://escoteiro.mateusbernardo.xyz/ramos/voluntario/</link>
+      <pubDate>Thu, 14 Sep 2023 11:09:40 -0300</pubDate>
+      
+      <guid>https://escoteiro.mateusbernardo.xyz/ramos/voluntario/</guid>
+      <description>Os adultos voluntários possuem um papel fundamental no Projeto Educativo dos Escoteiros do Brasil, dando suporte não só aos jovens ao facilitar a criação de oportunidades de aprendizado, mas também à condução da instituição em todos os seus níveis (nacional, regional ou local) exercendo funções de membros das diretorias ou de comissões fiscais e de ética. Sendo assim, o adulto voluntário no Movimento Escoteiro pode atuar de duas maneiras: como escotista ou como dirigente.</description>
     </item>
     
     <item>
@@ -22,7 +32,8 @@
       <pubDate>Thu, 14 Sep 2023 11:09:40 -0300</pubDate>
       
       <guid>https://escoteiro.mateusbernardo.xyz/ramos/senior/</guid>
-      <description>dakasoda</description>
+      <description>O Ramo Sênior é formado por jovens com idade entre 15 e 17 anos. Nós já nos conhecemos melhor, aceitamos nossas características e as diferenças de um jeito mais simples, e estamos entendendo melhor nossa própria personalidade. Aqui a exploração se converte em desafios pessoais e somos estimulados a superar estes desafios.
+Nossas atividades nos desafiam e nos encorajam a superar dificuldades, seja escalando montanhas, navegando, conhecendo novas tecnologias, acampando por vários dias, fazendo trilhas, aprendendo novas habilidades e muitas outras coisas.</description>
     </item>
     
     <item>
@@ -31,7 +42,8 @@
       <pubDate>Thu, 14 Sep 2023 11:09:36 -0300</pubDate>
       
       <guid>https://escoteiro.mateusbernardo.xyz/ramos/escoteiro/</guid>
-      <description></description>
+      <description>Entre os 11 e 14 anos fazemos parte do Ramo Escoteiro – somos patrulhas de 5 a 8 jovens, de meninos e meninas, que juntas formam uma tropa. Aqui, além de trabalhar em equipe e entender a importância de respeitar a natureza, aprendemos diversas coisas que nos deixam mais confiantes e decididos.
+Cada patrulha tem seu próprio bastão e bandeirola, onde gravamos lembranças marcantes das nossas experiências juntos, assim como o livro de patrulha, que tem todas as informações sobre os membros e fotografias das nossas ações.</description>
     </item>
     
     <item>
@@ -40,7 +52,8 @@
       <pubDate>Thu, 14 Sep 2023 11:09:30 -0300</pubDate>
       
       <guid>https://escoteiro.mateusbernardo.xyz/ramos/lobinho/</guid>
-      <description></description>
+      <description>Entre os 6,5 e os 10 anos, somos lobinhos. Aprendemos muito sobre a vida em meio à natureza, a viver em grupo e desenvolvemos nossa socialização. “O Livro da Jângal”, que retrata as aventuras de Mowgli, o menino lobo, é o marco simbólico que inspira a organização do Ramo Lobinho.
+Juntos, formamos uma alcateia, que é dividida em pequenos grupos chamados matilhas. Cada matilha tem de quatro a seis lobinhos, entre meninos e meninas, com os quais compartilhamos as atividades durante todo o período em que ficamos nesse Ramo.</description>
     </item>
     
   </channel>

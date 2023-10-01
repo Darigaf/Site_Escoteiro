@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://escoteiro.mateusbernardo.xyz/noticias/2023/mutcom/</loc>
+    <lastmod>2023-09-24T23:10:12-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/noticias/mutcom/</loc>
+    <lastmod>2023-09-24T23:10:12-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://escoteiro.mateusbernardo.xyz/ramos/pioneiro/</loc>
     <lastmod>2023-09-14T11:09:45-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/voluntario/</loc>
+    <lastmod>2023-09-14T11:09:40-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,17 +37,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://escoteiro.mateusbernardo.xyz/artigos/2023/teste/</loc>
+    <loc>https://escoteiro.mateusbernardo.xyz/noticias/2023/teste/</loc>
     <lastmod>2023-08-24T15:27:04-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://escoteiro.mateusbernardo.xyz/artigos/</loc>
-    <lastmod>2023-08-24T15:26:26-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://escoteiro.mateusbernardo.xyz/ramos/</loc>
+    <loc>https://escoteiro.mateusbernardo.xyz/noticias/</loc>
     <lastmod>2023-08-24T15:26:26-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,12 +57,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://escoteiro.mateusbernardo.xyz/participe/</loc>
-    <lastmod>2023-08-24T13:49:46-03:00</lastmod>
+    <loc>https://escoteiro.mateusbernardo.xyz/</loc>
+    <lastmod>2023-08-24T13:23:02-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://escoteiro.mateusbernardo.xyz/</loc>
+    <loc>https://escoteiro.mateusbernardo.xyz/ramos/</loc>
     <lastmod>2023-08-24T13:23:02-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
