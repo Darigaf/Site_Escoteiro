@@ -1,6 +1,6 @@
 ---
 title: "Ramo Pioneiro"
-date: 2023-09-14T11:09:45-03:00
+date: 2023-09-14T11:09:30-03:00
 #featured_image: "/images/simbolos_ramos/pioneiro.png"
 featured_image: "/images/simbolos_ramos/pioneiroresize.png"
 description: "Ramo destinado a Jovens de 19 a 21 anos"

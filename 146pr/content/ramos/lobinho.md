@@ -1,6 +1,6 @@
 ---
 title: "Ramo Lobinho"
-date: 2023-09-14T11:09:30-03:00
+date: 2023-09-14T11:10:14-03:00
 featured_image: "/images/simbolos_ramos/lobinho.png"
 draft: false
 ---

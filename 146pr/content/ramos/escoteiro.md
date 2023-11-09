@@ -1,6 +1,6 @@
 ---
-title: "Ramo Escoteiro"
-date: 2023-09-14T11:09:36-03:00
+title: " Ramo Escoteiro"
+date: 2023-09-14T11:09:34-03:00
 featured_image: "/images/simbolos_ramos/escoteiro.png"
 draft: false
 ---
