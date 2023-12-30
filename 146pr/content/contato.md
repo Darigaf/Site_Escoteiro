@@ -10,6 +10,6 @@ menu: main
 
 ---
 
-Você pode entrar em contato conosco pelo whatsapp: (41) 99879-1466
+Você pode entrar em contato conosco pelo whatsapp: [(41) 99879-1466](https://api.whatsapp.com/send/?phone=554198791466), o mesmo número também aceita ligações
 
 Ou ainda pelo email: 
